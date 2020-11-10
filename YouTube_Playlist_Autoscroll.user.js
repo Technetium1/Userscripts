@@ -5,8 +5,8 @@
 // @author       https://github.com/Technetium1
 // @license      The Unlicense
 // @match        https://www.youtube.com/playlist*
-// @updateURL    https://github.com/Technetium1/Userscripts/raw/master/YouTube_Playlist_Autoscroll.user.js
-// @downloadURL  https://github.com/Technetium1/Userscripts/raw/master/YouTube_Playlist_Autoscroll.user.js
+// @updateURL    https://github.com/Technetium1/Userscripts/raw/main/YouTube_Playlist_Autoscroll.user.js
+// @downloadURL  https://github.com/Technetium1/Userscripts/raw/main/YouTube_Playlist_Autoscroll.user.js
 // @run-at       document-body
 // ==/UserScript==
 
