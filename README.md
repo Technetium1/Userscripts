@@ -1,3 +1,3 @@
 # Userscripts
 
-* [YouTube_Autoclick_Loadmore.user.js](https://github.com/Technetium1/Userscripts/blob/main/YouTube_AutoClick_LoadMore.user.js) Automatically click the "load more" button on YouTube playlists
+* [YouTube_Playlist_Autoscroll.user.js](https://github.com/Technetium1/Userscripts/blob/main/YouTube_Playlist_Autoscroll.user.js) Automatically scroll to the bottom of your YouTube playlists
