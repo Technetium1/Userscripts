@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Playlist Autoscroll
-// @version      1.2
+// @version      1.3
 // @description  Automatically scroll to the bottom of your YouTube playlists
 // @author       https://github.com/Technetium1
 // @license      The Unlicense
@@ -18,6 +18,6 @@ function autoScroll () {
   if (
     document.getElementsByClassName("ytd-continuation-item-renderer").length > 0
   ) {
-    window.scrollBy({"top": 1000000, "behavior": "smooth"})
+    window.scrollBy({"top": document.getElementById("contents").scrollHeight, "behavior": "smooth"})
   }
 }
