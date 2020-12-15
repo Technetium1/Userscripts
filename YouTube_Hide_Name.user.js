@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         YouTube Hide Name
-// @version      1.0
+// @version      1.1
 // @description  Remove your YouTube account name from view
 // @author       https://github.com/Technetium1
 // @license      The Unlicense
 // @match        https://www.youtube.com/*
+// @match        https://studio.youtube.com/*
 // @updateURL    https://github.com/Technetium1/Userscripts/raw/main/YouTube_Hide_Name.user.js
 // @downloadURL  https://github.com/Technetium1/Userscripts/raw/main/YouTube_Hide_Name.user.js
 // @grant        GM_addStyle
@@ -22,3 +23,9 @@ GM_addStyle('.ytd-active-account-header-renderer { display: none !important; }')
 
 // Hides name from livestream chat
 GM_addStyle('#input-container > yt-live-chat-author-chip { display: none !important; }')
+
+// Hides name on left side of YT Studio [studio.youtube.com]
+GM_addStyle('#entity-label-container { display: none !important; }')
+
+// Hide name on YT Library [youtube.com/feed/library]
+GM_addStyle('#title { display: none !important; }')
