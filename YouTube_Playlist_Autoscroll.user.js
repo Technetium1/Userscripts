@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         YouTube Playlist Autoscroll
-// @version      1.6
+// @version      1.7
 // @description  Automatically scroll to the bottom of your YouTube playlists
 // @author       https://github.com/Technetium1
 // @license      The Unlicense
-// @match        https://www.youtube.com/*
-// @exclude      https://www.youtube.com/
+// @match        https://www.youtube.com/playlist*
+// @exclude      https://www.youtube.com
 // @exclude      https://www.youtube.com/watch*
 // @exclude      https://www.youtube.com/results*
 // @updateURL    https://github.com/Technetium1/Userscripts/raw/main/YouTube_Playlist_Autoscroll.user.js
