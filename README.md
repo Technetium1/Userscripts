@@ -1,5 +1,5 @@
 # Userscripts
-[![HitCount](https://hits.dwyl.com/Technetium1/Userscripts.svg)](https://hits.dwyl.com/Technetium1/Userscripts)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FUserscripts&count_bg=%230000FF&title_bg=%23555555&icon=&icon_color=%230000FF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://forthebadge.com/images/badges/built-with-resentment.svg" width="110" height="20" />
 
 
