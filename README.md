@@ -1,6 +1,6 @@
 # Userscripts
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FUserscripts&count_bg=%230000FF&title_bg=%23555555&icon=&icon_color=%230000FF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://forthebadge.com/images/badges/built-with-resentment.svg" width="110" height="20" />
+<img src="https://github.com/Technetium1/Userscripts/raw/main/builtwithresentment.svg" width="110" height="20" />
 
 
 * [\[INSTALL\]](https://github.com/Technetium1/Userscripts/raw/main/YouTube_Playlist_Autoscroll.user.js) — [YouTube_Playlist_Autoscroll.user.js](https://github.com/Technetium1/Userscripts/blob/main/YouTube_Playlist_Autoscroll.user.js) Automatically scroll to the bottom of your YouTube playlists
