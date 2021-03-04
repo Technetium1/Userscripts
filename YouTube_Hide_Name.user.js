@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Hide Name
-// @version      1.1
+// @version      1.2
 // @description  Remove your YouTube account name from view
 // @author       https://github.com/Technetium1
 // @license      The Unlicense
@@ -29,3 +29,6 @@ GM_addStyle('#entity-label-container { display: none !important; }')
 
 // Hide name on YT Library [youtube.com/feed/library]
 GM_addStyle('#title { display: none !important; }')
+
+// Hide Added by section on shared playlists
+GM_addStyle('#contributor { display: none !important; }')
