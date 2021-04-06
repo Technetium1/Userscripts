@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Hide Name
-// @version      1.2
+// @version      1.3
 // @description  Remove your YouTube account name from view
 // @author       https://github.com/Technetium1
 // @license      The Unlicense
@@ -32,3 +32,6 @@ GM_addStyle('#title { display: none !important; }')
 
 // Hide Added by section on shared playlists
 GM_addStyle('#contributor { display: none !important; }')
+
+// Hide WATCHED overlay
+GM_addStyle('.ytd-thumbnail-overlay-playback-status-renderer { display: none !important; }')
