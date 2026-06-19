@@ -5,6 +5,8 @@
 // @description  Forces gitlab_canary=false to prevent GitLab Next A/B testing
 // @match        https://gitlab.com/*
 // @match        https://*.gitlab.com/*
+// @updateURL    https://github.com/Technetium1/Userscripts/raw/main/Disable_GitLab_Next.user.js
+// @downloadURL  https://github.com/Technetium1/Userscripts/raw/main/Disable_GitLab_Next.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
