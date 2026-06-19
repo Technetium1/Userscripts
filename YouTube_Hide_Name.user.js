@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Hide Name
-// @version      1.5
+// @version      1.6
 // @description  Remove your YouTube account name from view
 // @author       https://github.com/Technetium1
 // @license      The Unlicense
