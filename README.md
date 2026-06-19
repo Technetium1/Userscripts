@@ -20,3 +20,9 @@
 ## [\[INSTALL\]](https://github.com/Technetium1/Userscripts/raw/main/Yugen_Autoplay.user.js) — [Yugen_Autoplay.user.js](https://github.com/Technetium1/Userscripts/blob/main/Yugen_Autoplay.user.js)
 
 ### Autoplay for Yugen Anime
+
+---
+
+## [\[INSTALL\]](https://github.com/Technetium1/Userscripts/raw/main/Disable_GitLab_Next.user.js) — [Disable_GitLab_Next.user.js](https://github.com/Technetium1/Userscripts/blob/main/Disable_GitLab_Next.user.js)
+
+### Stop unwanted GitLab Next A/B testing
